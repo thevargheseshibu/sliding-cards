@@ -4,7 +4,7 @@ This is a simple example of sliding cards using HTML, CSS, and JavaScript. When 
 
 ## How it works
 
-1. `index.html` contains the structure of the webpage with a container and multiple cards.
+1. `index.html` contains the structure of the webpage with a container and multiple cards. 
 2. `styles.css` provides the styling for the cards, making them expand on click.
 3. `script.js` adds the interactivity. It selects all the cards and adds a click event listener to each. When a card is clicked, it expands, and all other cards are closed.
 
